@@ -118,7 +118,7 @@ plt.subplot(1, 2, 1)  # 1 row, 2 columns, first plot
 plt.barh(meds_names, meds_counts, color='skyblue')
 plt.xlabel('Frequency')
 plt.title('Top 10 Most Common Medications')
-plt.gca().invert_yaxis()  # Highest at top
+plt.gca().invert_yaxis()
 
 # Visualization 2: Top 10 Diseases Bar Chart
 top_10_diseases = disease_counts.most_common(10)
@@ -141,7 +141,7 @@ plt.figure(figsize=(8, 8))
 labels = ['Medications', 'Diseases']
 sizes = [len(all_medications), len(all_diseases)]
 colors = ['skyblue', 'lightcoral']
-explode = (0.1, 0)  # explode 1st slice
+explode = (0.1, 0)  
 
 plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=90)
