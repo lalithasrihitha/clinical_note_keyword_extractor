@@ -1,0 +1,5 @@
+MEDICATION STATISTICS
+Top 20: [('lidocaine', 509), ('Marcaine', 506), ('epinephrine', 255), ('Xylocaine', 231), ('aspirin', 230), ('Tylenol', 216), ('Lasix', 170), ('heparin', 143), ('Plavix', 134), ('Vicodin', 132), ('cholesterol', 124), ('prednisone', 124), ('steroid', 121), ('sodium', 119), ('chloride', 118), ('Sodium', 113), ('iron', 111), ('bacitracin', 104), ('bilirubin', 102), ('Lidocaine', 101)]
+
+DISEASE STATISTICS
+Top 20: [('pain', 3437), ('bleeding', 1287), ('fracture', 773), ('infection', 757), ('tumor', 755), ('hypertension', 648), ('chest pain', 584), ('tenderness', 569), ('fever', 567), ('shortness of breath', 561), ('nausea', 499), ('swelling', 494), ('edema', 489), ('vomiting', 487), ('stenosis', 418), ('diabetes', 417), ('cough', 405), ('abdominal pain', 366), ('numbness', 357), ('diarrhea', 344)]
